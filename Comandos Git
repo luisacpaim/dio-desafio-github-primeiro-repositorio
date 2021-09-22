@@ -1,0 +1,19 @@
+COMANDOS GIT
+
+* git add . :: inicia o git na pasta;
+
+* git status :: mostra status dos arquivos na pasta;
+
+* git commit -m "(comentario commit)" :: commita os arquidos adicionados;
+
+* git remote add origin (link repositorio) :: "conecta" o repositório;
+
+* git push -u origin main/branch :: envia os arquivos commitados para o git;
+
+* git branch -M main/branch :: muda de branch;
+
+* git clone (link repositorio) :: clona o repositório para a pasta local;
+
+
+
+
